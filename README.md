@@ -23,7 +23,7 @@ Both models are based on Convolutional Neural Networks a.k. CNNs implemented usi
 
  [datasets]:      https://github.com/tassosblackg/RUFake/datasets
  [saved_models]:   https://github.com/tassosblackg/RUFake/saved_models
- [classifier_summary] :  https://github.com/tassosblackg/RUFake/classifier_architecture
+ [classifier_summary]:  https://github.com/tassosblackg/RUFake/classifier_architecture
  [ev3_file.c]:    https://github.com/tassosblackg/RUFake
  [test_count.c]:  https://github.com/tassosblackg/RUFake
  [lfoa.c]:        https://github.com/tassosblackg/RUFake
