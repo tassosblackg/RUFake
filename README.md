@@ -16,14 +16,11 @@ Both models are based on Convolutional Neural Networks a.k. CNNs implemented usi
  [datasets]           | Directory with the 2 types of image datasets 
  [saved_models]       | Includes the models' architecture, weights, etc.
  [classifier_summary]       | Images showing classifier architecture
- [ev3_file.c]         | Module for reading/writing from/to files
- [test_count.c]       | Test to count connected sensors on EV3 brick
  [train_classifier_log.csv]             | Training results of first classifier architecture **
  [train_classifier_log2.csv]             | Training results of second classifier architecture **
 
- [datasets]:      https://github.com/tassosblackg/RUFake/datasets
- [saved_models]:   https://github.com/tassosblackg/RUFake/saved_models
- [classifier_summary]:  https://github.com/tassosblackg/RUFake/classifier_architecture
- [ev3_file.c]:    https://github.com/tassosblackg/RUFake
- [test_count.c]:  https://github.com/tassosblackg/RUFake
- [lfoa.c]:        https://github.com/tassosblackg/RUFake
+ [datasets]:                       https://github.com/tassosblackg/RUFake/datasets
+ [saved_models]:                   https://github.com/tassosblackg/RUFake/saved_models
+ [classifier_summary]:             https://github.com/tassosblackg/RUFake/classifier_architecture
+ [train_classifier_log.csv]:       https://github.com/tassosblackg/RUFake/train_classifier_log.csv
+ [train_classifier_log2.csv]:       https://github.com/tassosblackg/RUFake/train_classifier_log2.csv
